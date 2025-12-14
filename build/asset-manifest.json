@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kiit-Bus-Route-Finder/static/css/main.31c3a457.css",
+    "main.js": "/kiit-Bus-Route-Finder/static/js/main.82b7fa26.js",
+    "static/js/453.edd0b783.chunk.js": "/kiit-Bus-Route-Finder/static/js/453.edd0b783.chunk.js",
+    "static/media/Loginbackground1.png": "/kiit-Bus-Route-Finder/static/media/Loginbackground1.d696a8b6266dedc2c627.png",
+    "static/media/KIITGO_logo.png": "/kiit-Bus-Route-Finder/static/media/KIITGO_logo.df0a351f3e9efa584640.png",
+    "index.html": "/kiit-Bus-Route-Finder/index.html",
+    "main.31c3a457.css.map": "/kiit-Bus-Route-Finder/static/css/main.31c3a457.css.map",
+    "main.82b7fa26.js.map": "/kiit-Bus-Route-Finder/static/js/main.82b7fa26.js.map",
+    "453.edd0b783.chunk.js.map": "/kiit-Bus-Route-Finder/static/js/453.edd0b783.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c3a457.css",
+    "static/js/main.82b7fa26.js"
+  ]
+}
